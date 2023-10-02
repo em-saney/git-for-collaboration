@@ -1,0 +1,23 @@
+{
+  "name": "e-gona-app",
+  "version": "1.0.0",
+  "description": "Online store front for farmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/em-saney/git-for-collaboration.git"
+  },
+  "keywords": [
+    "farm",
+    "store"
+  ],
+  "author": "Sani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/em-saney/git-for-collaboration/issues"
+  },
+  "homepage": "https://github.com/em-saney/git-for-collaboration#readme"
+}
