@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/em-saney/git-for-collaboration/issues"
   },
-  "homepage": "https://github.com/em-saney/git-for-collaboration#readme"
+  "homepage": "https://github.com/em-saney/git-for-collaboration#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
